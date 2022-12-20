@@ -14,13 +14,14 @@ My [portfolio](website)
 [<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org)
 [<img align="left" alt="MaterialUI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;"/>](https://mui.com/material-ui/getting-started/overview/)
-[<img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;"/>](https://www.php.net/docs.php)
+[<img align="left" alt="Webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;"/>](https://webpack.js.org/concepts/)
 
 <br />
 <br />
 
 ### Back-end:
 [<img align="left" alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/docs?gclid=Cj0KCQiA14WdBhD8ARIsANao07iFyZv_gi2Fx-krknQKIsqca_YuAXDP-TT6MjlfssL7S933ZMhQ2MsaAukmEALw_wcB&gclsrc=aw.ds)
+[<img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;"/>](https://www.php.net/docs.php)
 
 <br />
 <br />

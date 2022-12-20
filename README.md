@@ -2,6 +2,7 @@
 
 ### My [portfolio](https://website)
 ### My [linkedIn](https://www.linkedin.com/in/piotr-słupski-75821625b/)
+### My [codewars](https://www.codewars.com/users/Gr34sy)
 ### My email: slupek3@poczta.fm
 
 

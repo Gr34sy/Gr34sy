@@ -1,10 +1,12 @@
-# Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for job as a Front-end Developer 
-## My [portfolio](website)
+## Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for job as a Front-end Developer 
+### My [portfolio](website)
 
 ## Currently I'm learning:
 [<img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/docs)
 [<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/docs/)
 
+<br/>
+<br/>
 
 ## I have expierence with:
 <br />

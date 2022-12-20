@@ -1,10 +1,8 @@
 # Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for job as a Front-end Developer 
 
 ### My [portfolio website](website)
-### My [linkedIn](www.linkedin.com/in/piotr-słupski-75821625b)
+### My [linkedIn]('www.linkedin.com/in/piotr-słupski-75821625b')
 
-<br/>
-<br/>
 
 ## Currently I'm learning:
 [<img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />](https://getbootstrap.com/docs/5.2/getting-started/introduction/)

@@ -1,7 +1,7 @@
 # Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for job as a Front-end Developer 
+
 ### My [portfolio](website)
 
-<br/>
 <br/>
 <br/>
 

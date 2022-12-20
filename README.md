@@ -9,7 +9,6 @@
 <br/>
 
 ## I have expierence with:
-<br />
 
 ### IDE:
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/docs)

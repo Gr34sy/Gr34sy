@@ -1,7 +1,7 @@
 # Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for job as a Front-end Developer 
 
 ### My [portfolio website](website)
-### My [linkedIn](www.linkedin.com/in/piotr-słupski-75821625b/)
+### My [linkedIn](https://www.linkedin.com/in/piotr-słupski-75821625b/)
 
 
 ## Currently I'm learning:

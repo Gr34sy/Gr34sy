@@ -1,6 +1,6 @@
 # Hello, I'm Peter. I'm currently studying IT in Wrocław and looking for a job as Front-end Developer 
 
-### My [portfolio](https://website)
+### My [portfolio](https://heroic-quokka-3e69bf.netlify.app)
 ### My [linkedIn](https://www.linkedin.com/in/piotr-słupski-75821625b/)
 ### My [codewars](https://www.codewars.com/users/Gr34sy)
 ### My email: slupek3@poczta.fm

@@ -29,6 +29,8 @@
 [<img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 [<img align="left" alt="MaterialUI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;"/>](https://mui.com/material-ui/getting-started/overview/)
 [<img align="left" alt="Webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;"/>](https://webpack.js.org/concepts/)
+[<img  align="left" alt="Webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;"/>]
+(https://nextjs.org)
 
 <br />
 <br />

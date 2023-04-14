@@ -30,6 +30,7 @@
 [<img align="left" alt="MaterialUI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;"/>](https://mui.com/material-ui/getting-started/overview/)
 [<img align="left" alt="Webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;"/>](https://webpack.js.org/concepts/)
 [<img  align="left" alt="Next" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;"/>](https://nextjs.org/)
+[<img  align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>](https://tailwindcss.com)
 
 <br />
 <br />

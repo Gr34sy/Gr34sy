@@ -26,11 +26,10 @@
 [<img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com)
 [<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org)
+[<img  align="left" alt="Next" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;"/>](https://nextjs.org/)
 [<img align="left" alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 [<img align="left" alt="MaterialUI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;"/>](https://mui.com/material-ui/getting-started/overview/)
-[<img align="left" alt="Webpack" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" style="padding-right:10px;"/>](https://webpack.js.org/concepts/)
-[<img  align="left" alt="Next" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="padding-right:10px;"/>](https://nextjs.org/)
-[<img  align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;"/>](https://tailwindcss.com)
+[<img  align="left"  alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;"/>](https://tailwindcss.com)
 
 <br />
 <br />

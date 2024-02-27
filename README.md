@@ -40,7 +40,7 @@
 
 <br />
 <br />
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg
+
 ### Databases:
 [<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://www.mongodb.com)
 [<img align="left" alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/docs?gclid=Cj0KCQiA14WdBhD8ARIsANao07iFyZv_gi2Fx-krknQKIsqca_YuAXDP-TT6MjlfssL7S933ZMhQ2MsaAukmEALw_wcB&gclsrc=aw.ds)

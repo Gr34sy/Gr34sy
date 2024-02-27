@@ -36,7 +36,7 @@
 <br />
 
 ### Back-end:
-[<img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)]
+[<img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)
 [<img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;"/>](https://www.php.net/docs.php)
 
 <br />

@@ -33,7 +33,7 @@
 
 ### Back-end:
 [<img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en)
-[<img align="left" alt="express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>](https://expressjs.com)
+[<img align="left" alt="express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:10px;"/>](https://expressjs.com)
 
 <br />
 <br />
